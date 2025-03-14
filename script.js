@@ -30,4 +30,4 @@ function prevSlide() {
 }
 
 // Tự động chuyển slide mỗi 5 giây
-setInterval(nextSlide, 2000);
+setInterval(nextSlide, 4000);
